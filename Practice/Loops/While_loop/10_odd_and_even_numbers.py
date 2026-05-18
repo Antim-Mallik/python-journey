@@ -1,0 +1,9 @@
+n = int(input("Enter number: "))
+i = 1
+while(i<=n):
+    print(i, end=" ")
+    i += 2
+i2 = 2
+while(i2<=n):
+    print(i2, end=" ")
+    i2 += 2
