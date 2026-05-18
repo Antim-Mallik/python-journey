@@ -1,0 +1,7 @@
+a = int(input("Enter you number: "))
+b = int(input("Enter you number: "))
+c = int(input("Enter you number: "))
+print("Your 1st number was ", a)
+print("Your 2nd number was ", b)
+print("Your 3rd number was ", c)
+print("The sum of these 3 number is =", a+b+c)
